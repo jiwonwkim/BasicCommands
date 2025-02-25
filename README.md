@@ -1,4 +1,4 @@
-# 22 Basic Linux Commands (File Management, Viewing, Searching)
+# 22 Basic Linux Commands
 
 ## File & Directory Management
 
